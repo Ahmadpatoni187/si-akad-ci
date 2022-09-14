@@ -1,0 +1,35 @@
+Untuk menjalankan aplikasi disarankan menggunakan composer
+
+Buka folder melalui terminal, Kemudian jalankan aplikasi menggunakan : php spark serve
+
+==========================================================
+HAK AKSES
+
+Admin:
+username : admin
+password : admin
+level : admin
+
+Mahasiswa:
+username : D111911143
+password : 1234
+level : mahasiswa 
+
+username : D111911162
+password : 1234
+level : mahasiswa 
+
+Jika ingin menggunakan data mahasiswa lain, dengan username menggunakan nim mahasiswa,
+dan password yang sama yaitu 1234
+
+Dosen:
+username : 062022005
+password : 1234
+level : dosen
+
+username: 062022002
+password : 1234
+level : Dosen
+
+Jika ingin menggunakan data lain dosen lain, dengan userame menggunakan nidn dosen,
+dan password yang sama yaitu 1234
